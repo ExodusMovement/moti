@@ -1,4 +1,5 @@
 {
+  "name": "@exodus/moti",
   "description": "The universal React Native animation library, powered by Reanimated 2. 🦉",
   "private": true,
   "workspaces": {
@@ -13,7 +14,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nandorojo/moti.git"
+    "url": "git+https://github.com/ExodusMovement/moti"
   },
   "scripts": {
     "lint": "eslint \"**/*.{js,ts,tsx}\"",
