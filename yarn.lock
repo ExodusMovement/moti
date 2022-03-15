@@ -3693,6 +3693,19 @@
     unique-filename "^1.1.1"
     which "^1.3.1"
 
+"@exodus/react-native-reanimated@^2.4.1-exodus.5":
+  version "2.4.1-exodus.5"
+  resolved "https://registry.yarnpkg.com/@exodus/react-native-reanimated/-/react-native-reanimated-2.4.1-exodus.5.tgz#ddbc94e0ee56da38fd713ca51a3e7d62cd9845bf"
+  integrity sha512-/COFK+zB95hFVvPKwgH0L3Re3RmU7CgmYtlTr177vKsLcVdyFObG8QHCzocWM5uXQAb4n7ciLbgchKAO7JmavA==
+  dependencies:
+    "@babel/plugin-transform-object-assign" "^7.10.4"
+    "@types/invariant" "^2.2.35"
+    invariant "^2.2.4"
+    lodash.isequal "^4.5.0"
+    mockdate "^3.0.2"
+    react-native-screens "^3.4.0"
+    string-hash-64 "^1.0.3"
+
 "@expo/babel-preset-cli@0.2.18":
   version "0.2.18"
   resolved "https://registry.yarnpkg.com/@expo/babel-preset-cli/-/babel-preset-cli-0.2.18.tgz#136acf8a0efe259e29ebc614b68552e5acb47d86"
